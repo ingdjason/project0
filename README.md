@@ -4,6 +4,8 @@ The goal of this project is to practice JavaScript and its paradigms by creating
 a TODO app. This app should be able to add TODOs and track the number of total
 TODOs as well as the number of unchecked TODOs.
 
+[TODO App](https://docs.cs50.net/mobile/2020/x/projects/0/project0.html)
+
 ## Instructions
 Inside of [index.html](/index.html), you'll find some starter HTML. You shouldn't
 need to edit this file at all. Open this file on your computer into any browser
